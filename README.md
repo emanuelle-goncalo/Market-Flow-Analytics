@@ -41,5 +41,3 @@ Market-Flow-Analytics/
 │   └── utils.py         # Core logic and processing functions
 ├── requirements.txt     # Project dependencies
 └── README.md            # Project documentation
-
-![alt text](/Marlket-Flow%20Analytcs%20BTC%20vs%20ADA%20Performance.png)
